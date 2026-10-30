@@ -1,0 +1,109 @@
+<resources>
+    <string name="tab_calendar">Календарь</string>
+    <string name="tab_history">История</string>
+
+    <plurals name="days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дня</item>
+    </plurals>
+    <string name="days_short">%1$d дн.</string>
+
+    <!-- Status card -->
+    <string name="status_empty_title">Начнём</string>
+    <string name="status_empty_body">Нажмите на первый день последних месячных в календаре, и появится прогноз.</string>
+    <string name="status_period_day">Месячные · день %1$d</string>
+    <string name="status_until_period">До месячных</string>
+    <string name="status_period_today">Месячные ожидаются сегодня</string>
+    <string name="status_delay">Задержка</string>
+    <string name="status_cycle_day">День цикла %1$d</string>
+    <string name="status_ovulation_in">Овуляция через %1$s</string>
+    <string name="status_ovulation_today">Сегодня ожидается овуляция</string>
+    <string name="status_fertile_today">Фертильный день: высокая вероятность зачатия</string>
+    <string name="confidence_label">Точность прогноза: %1$s</string>
+    <string name="confidence_low">низкая</string>
+    <string name="confidence_medium">средняя</string>
+    <string name="confidence_high">высокая</string>
+
+    <!-- Calendar -->
+    <string name="month_prev">Предыдущий месяц</string>
+    <string name="month_next">Следующий месяц</string>
+    <string name="legend_period">Месячные</string>
+    <string name="legend_predicted">Прогноз</string>
+    <string name="legend_fertile">Фертильные дни</string>
+    <string name="legend_ovulation">Овуляция</string>
+
+    <!-- Day editor -->
+    <string name="kind_period">Месячные</string>
+    <string name="kind_predicted_period">Ожидаются месячные</string>
+    <string name="kind_fertile">Фертильный день</string>
+    <string name="kind_ovulation">Ожидаемая овуляция</string>
+    <string name="editor_period">Месячные</string>
+    <string name="mark_start">Начало</string>
+    <string name="mark_end">Конец</string>
+    <string name="delete_period">Удалить</string>
+    <string name="future_hint">Месячные можно отметить только в прошедшие дни</string>
+    <string name="editor_symptoms">Симптомы</string>
+    <string name="editor_symptoms_placeholder">Выберите симптомы</string>
+    <string name="editor_mucus">Выделения</string>
+    <string name="editor_lh">Тест на овуляцию (ЛГ)</string>
+    <string name="editor_temperature">Базальная температура, °C</string>
+    <string name="editor_temperature_error">Введите значение от 34 до 43</string>
+    <string name="editor_hint">ЛГ-тест, выделения и базальная температура помогают точнее определить овуляцию.</string>
+    <string name="not_set">Не указано</string>
+    <string name="remove">Убрать</string>
+    <string name="save">Сохранить</string>
+    <string name="error_no_start">Сначала отметьте начало месячных</string>
+
+    <string name="symptom_cramps">Спазмы, боль внизу живота</string>
+    <string name="symptom_breast_tenderness">Чувствительность груди</string>
+    <string name="symptom_bloating">Вздутие</string>
+    <string name="symptom_headache">Головная боль</string>
+    <string name="symptom_back_pain">Боль в пояснице</string>
+    <string name="symptom_acne">Акне</string>
+    <string name="symptom_mood_swings">Перепады настроения</string>
+    <string name="symptom_fatigue">Усталость</string>
+    <string name="symptom_nausea">Тошнота</string>
+    <string name="symptom_spotting">Мажущие выделения</string>
+    <string name="symptom_high_libido">Повышенное либидо</string>
+    <string name="symptom_ovulation_pain">Овуляторная боль</string>
+
+    <string name="mucus_dry">Сухо</string>
+    <string name="mucus_sticky">Липкие</string>
+    <string name="mucus_creamy">Кремообразные</string>
+    <string name="mucus_watery">Водянистые</string>
+    <string name="mucus_egg_white">Как яичный белок</string>
+
+    <string name="lh_negative">Отрицательный</string>
+    <string name="lh_positive">Положительный</string>
+
+    <string name="signal_temperature">температура</string>
+    <string name="signal_lh">ЛГ-тест</string>
+    <string name="signal_mucus">выделения</string>
+    <string name="signal_pain">овуляторная боль</string>
+
+    <!-- History -->
+    <string name="history_title">История циклов</string>
+    <string name="history_empty">Пока нет записей. Отметьте месячные в календаре.</string>
+    <string name="stat_cycle">Цикл</string>
+    <string name="stat_period">Месячные</string>
+    <string name="stat_luteal">Лютеиновая фаза</string>
+    <string name="history_cycles_used">Учтено циклов: %1$d</string>
+    <string name="history_current">Текущий · день %1$d</string>
+    <string name="history_period_range">%1$s – %2$s</string>
+    <string name="history_period_open">%1$s · конец не отмечен</string>
+    <string name="history_period_length">Месячные %1$s</string>
+    <string name="history_ovulation_detected">овуляция %1$s (%2$s)</string>
+    <string name="history_outlier">Похоже, пропущена отметка: этот цикл не учитывается в прогнозе</string>
+    <string name="delete_title">Удалить запись?</string>
+    <string name="delete_text">Месячные с %1$s будут удалены из истории.</string>
+    <string name="cancel">Отмена</string>
+    <string name="more_actions">Ещё</string>
+    <string name="export_data">Экспорт данных</string>
+    <string name="import_data">Импорт данных</string>
+    <string name="export_done">Данные сохранены в файл</string>
+    <string name="export_failed">Не удалось сохранить файл</string>
+    <string name="import_done">Импортировано: циклов %1$d, дней с отметками %2$d</string>
+    <string name="import_failed">Не удалось прочитать файл. Выберите файл, сохранённый через «Экспорт данных».</string>
+</resources>

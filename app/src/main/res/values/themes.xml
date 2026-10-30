@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MyMoonCalendar" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background</item>
+        <!-- Keep the pink theme even when the system or vendor forces dark mode on apps. -->
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

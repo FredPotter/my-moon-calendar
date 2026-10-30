@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name" translatable="false">My moon cycle</string>
+
+    <string name="tab_calendar">Calendar</string>
+    <string name="tab_history">History</string>
+
+    <plurals name="days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <string name="days_short">%1$d d</string>
+
+    <!-- Status card -->
+    <string name="status_empty_title">Let\'s start</string>
+    <string name="status_empty_body">Tap the first day of your last period in the calendar to see a forecast.</string>
+    <string name="status_period_day">Period · day %1$d</string>
+    <string name="status_until_period">Period in</string>
+    <string name="status_period_today">Period expected today</string>
+    <string name="status_delay">Late by</string>
+    <string name="status_cycle_day">Cycle day %1$d</string>
+    <string name="status_ovulation_in">Ovulation in %1$s</string>
+    <string name="status_ovulation_today">Ovulation expected today</string>
+    <string name="status_fertile_today">Fertile day: high chance of conception</string>
+    <string name="confidence_label">Forecast accuracy: %1$s</string>
+    <string name="confidence_low">low</string>
+    <string name="confidence_medium">medium</string>
+    <string name="confidence_high">high</string>
+
+    <!-- Calendar -->
+    <string name="month_prev">Previous month</string>
+    <string name="month_next">Next month</string>
+    <string name="legend_period">Period</string>
+    <string name="legend_predicted">Forecast</string>
+    <string name="legend_fertile">Fertile days</string>
+    <string name="legend_ovulation">Ovulation</string>
+
+    <!-- Day editor -->
+    <string name="kind_period">Period</string>
+    <string name="kind_predicted_period">Period expected</string>
+    <string name="kind_fertile">Fertile day</string>
+    <string name="kind_ovulation">Expected ovulation</string>
+    <string name="editor_period">Period</string>
+    <string name="mark_start">Start</string>
+    <string name="mark_end">End</string>
+    <string name="delete_period">Delete</string>
+    <string name="future_hint">A period can only be marked on past days</string>
+    <string name="editor_symptoms">Symptoms</string>
+    <string name="editor_symptoms_placeholder">Select symptoms</string>
+    <string name="editor_mucus">Cervical mucus</string>
+    <string name="editor_lh">Ovulation test (LH)</string>
+    <string name="editor_temperature">Basal body temperature, °C</string>
+    <string name="editor_temperature_error">Enter a value from 34 to 43</string>
+    <string name="editor_hint">LH tests, cervical mucus and basal body temperature help pinpoint ovulation more accurately.</string>
+    <string name="not_set">Not set</string>
+    <string name="remove">Clear</string>
+    <string name="save">Save</string>
+    <string name="error_no_start">Mark the start of your period first</string>
+
+    <string name="symptom_cramps">Cramps, lower abdominal pain</string>
+    <string name="symptom_breast_tenderness">Breast tenderness</string>
+    <string name="symptom_bloating">Bloating</string>
+    <string name="symptom_headache">Headache</string>
+    <string name="symptom_back_pain">Lower back pain</string>
+    <string name="symptom_acne">Acne</string>
+    <string name="symptom_mood_swings">Mood swings</string>
+    <string name="symptom_fatigue">Fatigue</string>
+    <string name="symptom_nausea">Nausea</string>
+    <string name="symptom_spotting">Spotting</string>
+    <string name="symptom_high_libido">High libido</string>
+    <string name="symptom_ovulation_pain">Ovulation pain</string>
+
+    <string name="mucus_dry">Dry</string>
+    <string name="mucus_sticky">Sticky</string>
+    <string name="mucus_creamy">Creamy</string>
+    <string name="mucus_watery">Watery</string>
+    <string name="mucus_egg_white">Egg white</string>
+
+    <string name="lh_negative">Negative</string>
+    <string name="lh_positive">Positive</string>
+
+    <string name="signal_temperature">temperature</string>
+    <string name="signal_lh">LH test</string>
+    <string name="signal_mucus">mucus</string>
+    <string name="signal_pain">ovulation pain</string>
+
+    <!-- History -->
+    <string name="history_title">Cycle history</string>
+    <string name="history_empty">No records yet. Mark your period in the calendar.</string>
+    <string name="stat_cycle">Cycle</string>
+    <string name="stat_period">Period</string>
+    <string name="stat_luteal">Luteal phase</string>
+    <string name="history_cycles_used">Cycles counted: %1$d</string>
+    <string name="history_current">Current · day %1$d</string>
+    <string name="history_period_range">%1$s – %2$s</string>
+    <string name="history_period_open">%1$s · end not marked</string>
+    <string name="history_period_length">Period %1$s</string>
+    <string name="history_ovulation_detected">ovulation %1$s (%2$s)</string>
+    <string name="history_outlier">Looks like a mark is missing: this cycle is excluded from the forecast</string>
+    <string name="delete_title">Delete record?</string>
+    <string name="delete_text">The period starting %1$s will be removed from history.</string>
+    <string name="cancel">Cancel</string>
+    <string name="more_actions">More</string>
+    <string name="export_data">Export data</string>
+    <string name="import_data">Import data</string>
+    <string name="export_file_name" translatable="false">moon-calendar-%1$s.json</string>
+    <string name="export_done">Data saved to file</string>
+    <string name="export_failed">Couldn\'t save the file</string>
+    <string name="import_done">Imported cycles: %1$d, days with entries: %2$d</string>
+    <string name="import_failed">Couldn\'t read the file. Choose a file saved with “Export data”.</string>
+</resources>

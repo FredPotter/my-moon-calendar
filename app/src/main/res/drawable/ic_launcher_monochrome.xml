@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed (monochrome) icon: moon outline and the shaded crater side, the system tints it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.85"
+        android:scaleY="0.85">
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M59,25h2v2h-2zM47,27h8v2h-8zM57,27h2v2h-2zM65,27h2v2h-2zM51,29h2v2h-2zM69,29h2v2h-2zM43,31h6v2h-6zM71,31h2v2h-2zM47,33h2v2h-2zM53,33h2v2h-2zM57,33h4v2h-4zM43,35h4v2h-4zM49,35h2v2h-2zM55,35h2v2h-2zM61,35h2v2h-2zM41,37h2v2h-2zM47,37h2v2h-2zM55,37h2v2h-2zM59,37h2v2h-2zM49,39h2v2h-2zM55,39h2v2h-2zM59,39h2v2h-2zM43,41h2v2h-2zM51,41h6v2h-6zM59,41h2v2h-2zM65,41h2v2h-2zM43,43h4v2h-4zM51,43h2v2h-2zM55,43h8v2h-8zM47,45h4v2h-4zM59,45h2v2h-2zM63,45h2v2h-2zM43,47h6v2h-6zM51,47h4v2h-4zM59,47h4v2h-4zM41,49h2v2h-2zM45,49h2v2h-2zM51,49h6v2h-6zM59,49h2v2h-2zM65,49h2v2h-2zM47,51h2v2h-2zM51,51h6v2h-6zM59,51h2v2h-2zM63,51h4v2h-4zM31,53h2v2h-2zM47,53h4v2h-4zM57,53h6v2h-6zM29,55h2v2h-2zM39,55h4v2h-4zM45,55h14v2h-14zM29,57h2v2h-2zM37,57h6v2h-6zM45,57h16v2h-16zM63,57h2v2h-2zM27,59h4v2h-4zM33,59h2v2h-2zM39,59h12v2h-12zM57,59h6v2h-6zM27,61h2v2h-2zM31,61h6v2h-6zM39,61h10v2h-10zM57,61h4v2h-4zM29,63h4v2h-4zM37,63h4v2h-4zM43,63h4v2h-4zM53,63h8v2h-8zM29,65h2v2h-2zM33,65h4v2h-4zM39,65h4v2h-4zM45,65h2v2h-2zM51,65h10v2h-10zM33,67h2v2h-2zM37,67h6v2h-6zM45,67h2v2h-2zM53,67h4v2h-4zM35,69h4v2h-4zM49,69h2v2h-2zM41,71h4v2h-4zM51,71h4v2h-4zM41,73h2v2h-2zM53,73h2v2h-2zM53,75h4v2h-4zM41,29h10v2h-10zM37,31h6v2h-6zM49,31h2v2h-2zM35,33h12v2h-12zM33,35h10v2h-10zM51,35h4v2h-4zM31,37h10v2h-10zM43,37h4v2h-4zM49,37h6v2h-6zM31,39h18v2h-18zM51,39h4v2h-4zM29,41h14v2h-14zM47,41h2v2h-2zM57,41h2v2h-2zM29,43h14v2h-14zM29,45h18v2h-18zM51,45h4v2h-4zM27,47h16v2h-16zM49,47h2v2h-2zM55,47h2v2h-2zM63,47h4v2h-4zM27,49h14v2h-14zM43,49h2v2h-2zM49,49h2v2h-2zM63,49h2v2h-2zM27,51h20v2h-20zM49,51h2v2h-2zM27,53h4v2h-4zM33,53h6v2h-6zM43,53h4v2h-4zM51,53h2v2h-2zM27,55h2v2h-2zM31,55h6v2h-6zM27,57h2v2h-2zM31,57h6v2h-6zM31,59h2v2h-2zM35,59h4v2h-4zM29,61h2v2h-2zM37,61h2v2h-2zM53,61h4v2h-4zM51,63h2v2h-2zM35,67h2v2h-2zM47,23h14v2h-14zM41,25h6v2h-6zM61,25h6v2h-6zM37,27h4v2h-4zM67,27h4v2h-4zM35,29h2v2h-2zM71,29h2v2h-2zM33,31h2v2h-2zM73,31h2v2h-2zM31,33h2v2h-2zM75,33h2v2h-2zM29,35h2v2h-2zM77,35h2v2h-2zM27,37h2v2h-2zM77,37h4v2h-4zM27,39h2v2h-2zM79,39h2v2h-2zM25,41h2v2h-2zM81,41h2v2h-2zM25,43h2v2h-2zM81,43h2v2h-2zM25,45h2v2h-2zM81,45h2v2h-2zM23,47h2v2h-2zM83,47h2v2h-2zM23,49h2v2h-2zM83,49h2v2h-2zM23,51h2v2h-2zM83,51h2v2h-2zM23,53h2v2h-2zM83,53h2v2h-2zM23,55h2v2h-2zM83,55h2v2h-2zM23,57h2v2h-2zM83,57h2v2h-2zM23,59h2v2h-2zM83,59h2v2h-2zM25,61h2v2h-2zM81,61h2v2h-2zM25,63h2v2h-2zM81,63h2v2h-2zM25,65h2v2h-2zM81,65h2v2h-2zM27,67h2v2h-2zM79,67h2v2h-2zM27,69h2v2h-2zM79,69h2v2h-2zM29,71h2v2h-2zM77,71h2v2h-2zM31,73h2v2h-2zM75,73h2v2h-2zM33,75h2v2h-2zM73,75h2v2h-2zM35,77h2v2h-2zM71,77h2v2h-2zM37,79h4v2h-4zM67,79h4v2h-4zM41,81h6v2h-6zM61,81h6v2h-6zM47,83h14v2h-14z" />
+    </group>
+</vector>
